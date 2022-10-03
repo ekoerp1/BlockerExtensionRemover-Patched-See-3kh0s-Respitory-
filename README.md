@@ -15,8 +15,6 @@ Press on the extension remover file
 
 Then copy the code by pressing this button
 
-<img src="blob:chrome-untrusted://media-app/755060a0-c47b-4353-9a87-54fffda6b4e4" alt="Screenshot 2022-10-03 7.13.32 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193599592-86c1bdfd-24b6-4b0e-b350-0408eaef4ca1.png)
-
-
+<img src="blob:chrome-untrusted://media-app/755060a0-c47b-4353-9a87-54fffda6b4e4" alt="Screenshot 2022-10-03 7.13.32 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193599920-e63ee285-2470-4632-b7d0-94210918dab5.png)
 
 
