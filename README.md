@@ -64,3 +64,28 @@ After that you press details on the extension you want to unblock
 <img src="blob:chrome-untrusted://media-app/f0ee67ce-ff3e-4cb2-baca-c34140397621" alt="Screenshot 2022-10-03 7.33.35 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193604231-e8fefa1b-f9f6-4297-8f0f-4d0c3bb87ca0.png)
 
 
+Now you press veiw in chrome web store 
+
+<img src="blob:chrome-untrusted://media-app/0a1254a5-33f1-47c0-a94d-cf78798ec445" alt="Screenshot 2022-10-03 7.36.30 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193604916-7c6f7eda-2e3f-4f9a-a449-8dfa8490f662.png)
+
+
+Now you copy the code that is in the url bar
+
+
+<img src="blob:chrome-untrusted://media-app/9f5dfac7-c135-4100-96a6-0dea0aa3539e" alt="Screenshot 2022-10-03 7.38.41 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193605111-32315db5-a616-44ab-9775-05b2193fa75e.png)
+
+
+Now you go back to the ERROR 404 page and press on the bookmark with the code in it 
+
+
+<img src="blob:chrome-untrusted://media-app/d5d2e47d-53b1-4749-ba42-4ff221860395" alt="Screenshot 2022-10-03 7.40.44 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193605475-40ee5894-baf6-4936-a905-a616de8b039f.png)
+
+
+
+Lastly you paste in the code and press ok and it should be turned OFF!!!
+
+
+<img src="blob:chrome-untrusted://media-app/85020f70-7805-423e-9764-635e0a693c26" alt="Screenshot 2022-10-03 7.41.55 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193605822-0b3ffb92-9cc3-4dc1-be35-f8f7097836c2.png)
+
+
+Play with extensions because with the cisco combo for some websites it requires cisco to be turned off and iboss on and vise versa.
