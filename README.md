@@ -47,4 +47,15 @@ After that copy the url and paste it into your url bar by hilighting and doing c
 <img src="blob:chrome-untrusted://media-app/c7e9d0c5-9020-4963-96b1-31707dd80dc1" alt="Screenshot 2022-10-03 7.24.25 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193602281-a269a224-a413-4333-8e6b-c8ee20c3c22a.png)
 
 
+Now you should be here and it will say error and thats ok
+
+
+<img src="blob:chrome-untrusted://media-app/5fbeb24f-bb8f-44f1-8dec-9cd52745c29e" alt="Screenshot 2022-10-03 7.29.39 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193603087-f6967ca3-3d90-4734-8693-5d2a177b1ac0.png)
+
+
+Now you find the bookmark that has the code in it and save it for soon but first you press on the puzzle peice looking thing then press manage extensions. 
+
+
+<img src="blob:chrome-untrusted://media-app/c3c549ea-3278-46c4-8d9d-46afc8e6b106" alt="Screenshot 2022-10-03 7.32.15 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193603667-2b02ad94-5335-46ba-9aed-d30f8b589e89.png)
+
 
