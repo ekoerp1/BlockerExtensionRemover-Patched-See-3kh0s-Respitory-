@@ -26,3 +26,9 @@ Now press on the star and press on more
 
 <img src="blob:chrome-untrusted://media-app/6180caa8-69b7-4505-a9bd-5e2122e5b179" alt="Screenshot 2022-10-03 7.18.09 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193600829-a4aa7b81-503c-4650-971b-f4061ad3e80c.png)
 
+
+Now you press on the existing url then do ctrl+a and then ctrl+v and the code will be pasted in the url where you should be able to just press save.
+
+
+<img src="blob:chrome-untrusted://media-app/0864d43b-1048-4882-b3b0-24b1c6cc3fcb" alt="Screenshot 2022-10-03 7.18.43 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193601359-ac7a3000-ed3f-4981-8ca7-655d9987e4f8.png)
+
