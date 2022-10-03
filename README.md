@@ -21,3 +21,8 @@ Then copy the code by pressing this button
 <img src="blob:chrome-untrusted://media-app/755060a0-c47b-4353-9a87-54fffda6b4e4" alt="Screenshot 2022-10-03 7.13.32 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193599920-e63ee285-2470-4632-b7d0-94210918dab5.png)
 
 
+Now press on the star and press on more 
+
+
+<img src="blob:chrome-untrusted://media-app/6180caa8-69b7-4505-a9bd-5e2122e5b179" alt="Screenshot 2022-10-03 7.18.09 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193600829-a4aa7b81-503c-4650-971b-f4061ad3e80c.png)
+
