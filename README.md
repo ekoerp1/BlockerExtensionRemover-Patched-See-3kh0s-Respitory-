@@ -59,3 +59,8 @@ Now you find the bookmark that has the code in it and save it for soon but first
 <img src="blob:chrome-untrusted://media-app/c3c549ea-3278-46c4-8d9d-46afc8e6b106" alt="Screenshot 2022-10-03 7.32.15 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193603667-2b02ad94-5335-46ba-9aed-d30f8b589e89.png)
 
 
+After that you press details on the extension you want to unblock
+
+<img src="blob:chrome-untrusted://media-app/f0ee67ce-ff3e-4cb2-baca-c34140397621" alt="Screenshot 2022-10-03 7.33.35 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193604231-e8fefa1b-f9f6-4297-8f0f-4d0c3bb87ca0.png)
+
+
