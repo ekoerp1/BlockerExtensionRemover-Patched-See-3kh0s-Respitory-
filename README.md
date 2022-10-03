@@ -32,3 +32,19 @@ Now you press on the existing url then do ctrl+a and then ctrl+v and the code wi
 
 <img src="blob:chrome-untrusted://media-app/0864d43b-1048-4882-b3b0-24b1c6cc3fcb" alt="Screenshot 2022-10-03 7.18.43 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193601359-ac7a3000-ed3f-4981-8ca7-655d9987e4f8.png)
 
+
+Step 2----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Now go to this file 
+
+
+<img src="blob:chrome-untrusted://media-app/25827eba-37f3-4035-92e6-a9cd62697b57" alt="Screenshot 2022-10-03 7.24.16 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193602064-be65df67-b725-4471-bf87-b0138930f2d7.png)
+
+
+After that copy the url and paste it into your url bar by hilighting and doing ctrl+c and ctrl+v
+
+<img src="blob:chrome-untrusted://media-app/c7e9d0c5-9020-4963-96b1-31707dd80dc1" alt="Screenshot 2022-10-03 7.24.25 AM.png"/>![image](https://user-images.githubusercontent.com/95361381/193602281-a269a224-a413-4333-8e6b-c8ee20c3c22a.png)
+
+
+
